@@ -1,0 +1,40 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 10 Jul 2020 12:49:00 at http://zohaibanwer.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://zohaibanwer.com/ -O1 "F:\Juniad\Junaid Protfolio web" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:52:43	Warning: 	file not stored in cache due to bogus state (broken size, expected 536439 got 527800): zohaibanwer.com/wp-content/uploads/2020/06/018.jpg
+12:56:38	Error: 	"Method Not Allowed" (405) at link zohaibanwer.com/xmlrpc.php (from zohaibanwer.com/)
+12:58:14	Warning: 	Retry after error -4 (Incorrect length (527800 Bytes, 536439 expected)) at link zohaibanwer.com/wp-content/uploads/2020/06/018.jpg (from zohaibanwer.com/)
+12:58:15	Warning: 	Retry after error -2 (Receive Time Out) at link zohaibanwer.com/wp-content/uploads/2020/06/017.jpg (from zohaibanwer.com/)
+12:58:16	Warning: 	Retry after error -4 (Connect Error) at link zohaibanwer.com/wp-content/uploads/2020/06/015.jpg (from zohaibanwer.com/)
+12:58:17	Warning: 	Retry after error -4 (No data (connection closed)) at link zohaibanwer.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.4.2 (from zohaibanwer.com/)
+12:58:35	Warning: 	Retry after error -4 (No data (connection closed)) at link zohaibanwer.com/wp-content/themes/porto/fonts/elusive/elusiveicons-webfont.eot?v=2.0.0 (from zohaibanwer.com/wp-content/themes/porto/css/plugins_1.css?ver=5.4.2)
+12:58:37	Warning: 	Retry after error -4 (No data (connection closed)) at link zohaibanwer.com/wp-content/themes/porto/css/images/blank.gif (from zohaibanwer.com/wp-content/themes/porto/css/plugins_1.css?ver=5.4.2)
+12:58:38	Warning: 	Retry after error -4 (No data (connection closed)) at link zohaibanwer.com/wp-content/themes/porto/fonts/Simple-Line-Icons/Simple-Line-Icons.woff?nuc4d1 (from zohaibanwer.com/wp-content/themes/porto/css/plugins_1.css?ver=5.4.2)
+12:58:42	Error: 	"Not Found" (404) at link zohaibanwer.com/wp-content/themes/porto/img/video-overlay-dark.png (from zohaibanwer.com/wp-content/themes/porto/css/theme_elements_1.css?ver=5.4.2)
+12:58:42	Warning: 	Retry after error -4 (No data (connection closed)) at link zohaibanwer.com/wp-content/themes/porto/images/patterns/worn_dots.png (from zohaibanwer.com/wp-content/themes/porto/css/theme_elements_1.css?ver=5.4.2)
+12:58:46	Warning: 	Retry after error -4 (No data (connection closed)) at link zohaibanwer.com/wp-content/themes/porto/images/patterns/az_subtle.png (from zohaibanwer.com/wp-content/themes/porto/css/theme_elements_1.css?ver=5.4.2)
+12:58:46	Warning: 	Retry after error -4 (No data (connection closed)) at link zohaibanwer.com/Popover requires tooltip.js (from zohaibanwer.com/wp-content/themes/porto/js/plugins.min.js?ver=4.0.5)
+12:58:46	Warning: 	Retry after error -4 (No data (connection closed)) at link zohaibanwer.com/author/admin/feed/ (from zohaibanwer.com/author/admin/)
+12:58:57	Warning: 	file not stored in cache due to bogus state (broken size, expected 6098 got 2342): zohaibanwer.com/Popover requires tooltip.js
+12:58:59	Warning: 	Retry after error -4 (No data (connection closed)) at link zohaibanwer.com/wp-content/uploads/2020/06/018.jpg (from zohaibanwer.com/)
+12:59:01	Error: 	"Not Found" (404) at link zohaibanwer.com/gecko/ (from zohaibanwer.com/wp-content/themes/porto/js/theme.min.js?ver=4.0.5)
+12:59:02	Error: 	"Not Found" (404) at link zohaibanwer.com/applewebkit/ (from zohaibanwer.com/wp-content/themes/porto/js/theme.min.js?ver=4.0.5)
+12:59:02	Error: 	"Not Found" (404) at link zohaibanwer.com/mozilla/ (from zohaibanwer.com/wp-content/themes/porto/js/theme.min.js?ver=4.0.5)
+12:59:02	Warning: 	Retry after error -4 (No data (connection closed)) at link zohaibanwer.com/AppleWebKit/ (from zohaibanwer.com/wp-content/themes/porto/js/theme.min.js?ver=4.0.5)
+12:59:02	Warning: 	Retry after error -4 (Incorrect length (2342 Bytes, 6098 expected)) at link zohaibanwer.com/Popover requires tooltip.js (from zohaibanwer.com/wp-content/themes/porto/js/plugins.min.js?ver=4.0.5)
+12:59:02	Warning: 	Moved Permanently for zohaibanwer.com/?p=1
+12:59:02	Warning: 	File has moved from zohaibanwer.com/?p=1 to http://zohaibanwer.com/hello-world/
+12:59:10	Warning: 	Moved Permanently for zohaibanwer.com/?p=52
+12:59:10	Warning: 	File has moved from zohaibanwer.com/?p=52 to http://zohaibanwer.com/design-driven/
+12:59:10	Warning: 	Moved Permanently for zohaibanwer.com/?p=56
+12:59:10	Warning: 	File has moved from zohaibanwer.com/?p=56 to http://zohaibanwer.com/uiux-concepts/
+12:59:10	Error: 	"Not Found" (404) at link zohaibanwer.com/AppleWebKit/ (from zohaibanwer.com/wp-content/themes/porto/js/theme.min.js?ver=4.0.5)
+12:59:10	Error: 	"Not Found" (404) at link zohaibanwer.com/Popover requires tooltip.js (from zohaibanwer.com/wp-content/themes/porto/js/plugins.min.js?ver=4.0.5)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 13 seconds : 234 links scanned, 209 files written (14284275 bytes overall) [11429422 bytes received at 18645 bytes/sec], 3960297 bytes transferred using HTTP compression in 75 files, ratio 23%, 3.8 requests per connection
+(7 errors, 22 warnings, 0 messages)

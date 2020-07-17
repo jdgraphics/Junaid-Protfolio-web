@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.zotabox.com	TRUE	/	FALSE	1999999999	__cfduid	de3bfcec85eb0961b4013ee21a5f8cf451594367366
+static.zotabox.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.google.com	TRUE	/	FALSE	1999999999	NID	204=zSz0iStLeyxDDduwuOJREFi3MsXdXYnTeic8IBhrM1zqf4JB8oSorXIpSZ1C7-xsrUU6KReKjTleF9WWeNQovcJMnr3PgJXmtg88XbN7IlxLSa0h_NiFGlgxCcSnv0cpKJ9VxQpcawybyzotsx0omdad2AI7-sL76blVcPIxQAU
+.pinterest.com	TRUE	/	FALSE	1999999999	__cfduid	de1d45f8f64df88678ed7c052bac104951594367942
+assets.pinterest.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+zohaibanwer.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+
